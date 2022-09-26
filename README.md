@@ -1,0 +1,2 @@
+# ExpensesChecker
+Ionic react app 
